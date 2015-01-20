@@ -4,6 +4,7 @@
 
 #Vikas Piddempally
 
+
 <center>
 ![alt text](http://xvikas.com/img/profile.png "My Avatar-Vikas")
 </center>
@@ -18,11 +19,6 @@
 ![alt text](http://www.migrainetrust.org/assets/x/50157 "Travelling")
 ![alt text](http://www.clker.com/cliparts/p/L/K/s/R/p/play-sports-md.png "Sports")
 ![alt text](http://soccer1x2.net/wp-content/uploads/2012/03/leo-messi1.png "Messi")
-
-### Affiliation:
-- Institution: North Carolina State University
-- Department : Computer Science
-- Advisor: Prof. Tim Menzies.
 
 
 # Avery Thorn 
@@ -43,7 +39,7 @@ div.img img {
 
 I am a first-year graduate student in computer science at <font color=#ff00000>**NC state university**</font>. I enjoy programming in a variety of languages included Java, Python, C, and more. I have professional experience using these languages as well as web programming languages such as HTML and CSS.
 
-Feel free to  me at my [NCSU email](amthorn@ncsu.edu).
+Feel free to mail me at my [NCSU email](amthorn@ncsu.edu).
 
 
 ### Hobbies and interests ###
@@ -62,14 +58,75 @@ I'm interested in a variety of topics that mainly include science and mathematic
 We are a team of Computer Science graduates at North Carolina State University who aim to develop a Battery Management Application for logging device battery information and uploading this data on to a shared space for developer analysis.
 We have been inspired by Google's **Project Volta** for our Project proposal.
 
-*More information about Project Volta from Google developer summit can be found hin this short video :*
+*More information about Project Volta from Google developer summit can be found in this short video :*
 
 <a href="https://www.youtube.com/watch?v=KzSKIpJepUw#t=1266
 " target="_blank"><img src="http://img.youtube.com/vi/KzSKIpJepUw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
+# Why is Battery Important?
+- Limited and necessary resource for a device to function.
+- A good battery life is a direct attribute towards a better User/Consumer experience.
 
+## Options to enhance Battery Life :
+-Extended batteries.
+-Solar chargers.
+-Case Batteries.
+-Trontium reactors.
+
+
+# Consumption Facts
+-A chart to show the consumption facts of a typical smart device.
+
+![](http://www.devandroidtr.org/wp-content/uploads/2014/11/battery2.png "Battery Consumption Chart")
+
+# Project Statement
+We aim to develop a tool to analyze the device battery of smartphones and provide a means for developers to analyze the report stats for developing battery efficient applications.
+
+
+# Our Approach
+
+### Route One:
+- Android Studio
+- Gradle build tool
+- AVD for emulation.
+- SQLite database.
+
+### Route Two:
+- LAMP/WAMP architectures.
+- Postgres/MySql for databases.
+
+
+# Route One
+
+## ART(Android Run Time) + Android Studio
+
+### Pros :
+- A comprehensive IntelliJ IDE which provides code refactoring and debug tools.
+- Learning curve is one to two weeks given our team mates know Java.
+- Easy installation and configuration of Studio tools.
+- Android developer support forums for documentation.
+
+### Cons :
+- All of us are new to System level API's in Android.
+- No prior experience to most of our team mates in Android development.
+- Less explored area of development-> Little to no proper documentation in terms of help resources.
+- Development activity susceptible to errors which might be difficult to resolve given less documentation.
+
+# Route Two
+
+## LAMP/WAMP Architecture
+
+### Pros :
+- Open source
+- Proven, Stable and flexible stack for application development.
+- Widely deployed and suited for development of System tools and applications which run on low cost hardware.
+
+### Cons :
+- Less documentation with regard to our Project.
+- Development activity would be an iterative process and subject to errors and mistakes.
+- Time constraints in achieving the project end result would mean a lot of pressure to deliver a stable functioning application.
 
 
 
