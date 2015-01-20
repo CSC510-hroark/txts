@@ -240,6 +240,7 @@ Finally, the workers
 
 Making slides:
 ```
+
 $(Out)/slides/%.html : $(Raw)/slides/%.md 
 	pandoc -s \
               --webtex -i -t slidy \

@@ -1,9 +1,63 @@
-% Coding Habits
-% Vikas Piddempally 
-% January 11, 2015
+% Project Proposal & Team Info
+% CSC-510-SE 
+%*Vikas, Avery, Sohan, Smruthi*
 
-# In the morning
+#Vikas Piddempally
 
+<center>
+![alt text](http://xvikas.com/img/profile.png "My Avatar-Vikas")
+</center>
+### Personal Info
+- Name : Vikas Piddempally
+- Interests : Design enthusiast, Math lover and Software programmer.
+- Email: vpiddem@ncsu.edu
+- [Personal Website](http://www.xvikas.com)
+
+### Likes
+![alt text](http://lh5.googleusercontent.com/-t6d374yh2Og/UFvH13WO2YI/AAAAAAAANJ0/WaczOphVEjw/s800/icon.png "Cartoons")
+![alt text](http://www.migrainetrust.org/assets/x/50157 "Travelling")
+![alt text](http://www.clker.com/cliparts/p/L/K/s/R/p/play-sports-md.png "Sports")
+![alt text](http://soccer1x2.net/wp-content/uploads/2012/03/leo-messi1.png "Messi")
+
+### Affiliation:
+- Institution: North Carolina State University
+- Department : Computer Science
+- Advisor: Prof. Tim Menzies.
+
+
+# Avery Thorn 
+
+### Student ###
+
+<style>
+div.img img {
+	margin-right:10px;
+	padding:1px;
+	border: 0px solid #000000;
+	border-radius: 25px;
+}
+
+</style>
+
+<div class="img"><a href="url"><img src="https://scontent-b-iad.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/934896_10152901453011823_2282925017793400485_n.jpg?oh=72b461118e18f2a74b359cc0e504b58b&oe=552F42D7" align="left" height="200" width="200" ></a></div>
+
+I am a first-year graduate student in computer science at <font color=#ff00000>**NC state university**</font>. I enjoy programming in a variety of languages included Java, Python, C, and more. I have professional experience using these languages as well as web programming languages such as HTML and CSS.
+
+Feel free to  me at my [NCSU email](amthorn@ncsu.edu).
+
+
+### Hobbies and interests ###
+
+I'm interested in a variety of topics that mainly include science and mathematics. I love studying the natural sciences: Biology, chemistry, physics, astronomy, etc... and I enjoy involving myself in academic pursuits such as tutoring and teaching.
+
+
+# Smruthi Elapavuluri
+
+
+# Sohan Kollu
+
+
+# Next Slide
 
 <center>
 
@@ -43,7 +97,11 @@ rolling ![all the dat](../img/dot/dot1.png)
 
 # Conclusion
 
-- And the answer is...
+### Example Equation
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
+### Another Example Equation
+- $(a+b)^3=a^3 + b^3 + 3(ab)(a+b)$
+
 # References
+
