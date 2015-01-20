@@ -70,10 +70,10 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 - A good battery life is a direct attribute towards a better User/Consumer experience.
 
 ## Options to enhance Battery Life :
--Extended batteries.
--Solar chargers.
--Case Batteries.
--Trontium reactors.
+- Extended batteries.
+- Solar chargers.
+- Case Batteries.
+- Trontium reactors.
 
 
 # Consumption Facts
