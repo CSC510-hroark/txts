@@ -49,9 +49,28 @@ I'm interested in a variety of topics that mainly include science and mathematic
 
 # Smruthi Elapavuluri
 
+<center>
+![alt text](https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/08a/110/01766b0.jpg
+ "My Avatar-Smruthi")
+</center>
+## Personal Info :
+- I am graduate student in my final semeter.
+- My interests are Networks, Cloud, Storage.
+- Mail:jelapav@ncsu.edu
+
 
 # Sohan Kollu
+<center>
+![alt text](https://media.licdn.com/mpr/mpr/shrink_500_500/p/3/005/034/13b/0564d77.jpg "My Avatar- Sohan")
+</center>
+## Personal Info
+- Name : Sohan Chowdary Kollu
 
+- I am from Hyderabad, India
+
+- I am second year graduate student at NCSU
+
+- Love Programming, Nature and Science
 
 # Project Proposal - Inspiration
 
@@ -66,10 +85,12 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 # Why is Battery Important?
+
+### Critical Resource:
 - Limited and necessary resource for a device to function.
 - A good battery life is a direct attribute towards a better User/Consumer experience.
 
-## Options to enhance Battery Life :
+### Options to enhance Battery Life :
 - Extended batteries.
 - Solar chargers.
 - Case Batteries.
