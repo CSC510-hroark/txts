@@ -57,7 +57,23 @@ I'm interested in a variety of topics that mainly include science and mathematic
 # Sohan Kollu
 
 
-# Next Slide
+# Project Proposal - Inspiration
+
+We are a team of Computer Science graduates at North Carolina State University who aim to develop a Battery Management Application for logging device battery information and uploading this data on to a shared space for developer analysis.
+We have been inspired by Google's **Project Volta** for our Project proposal.
+
+*More information about Project Volta from Google developer summit can be found hin this short video :*
+
+<a href="https://www.youtube.com/watch?v=KzSKIpJepUw#t=1266
+" target="_blank"><img src="http://img.youtube.com/vi/KzSKIpJepUw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+
+
+
+
+
+
+# Table Example
 
 <center>
 
@@ -78,7 +94,7 @@ The NC Wolfies must:
 - Eat eggs
 - Drink coffee
 
-# In the evening
+# GnuPlot Magic
 
 As shown here:
 
@@ -89,7 +105,7 @@ As shown here:
 - as predicted by theory [@item1]
 
 
-# During the week
+# DOT Exmaple
 
 This is how we roll
 
